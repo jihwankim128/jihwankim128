@@ -20,7 +20,7 @@
 
 ---
 
-## Stats
+### 시스템 평가
 
 <table>
   <tr>
@@ -33,4 +33,5 @@
     <td width="33%" border:"none"> </td>
   </tr>
 </table>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jihwankim128&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
