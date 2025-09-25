@@ -22,8 +22,6 @@
 
 ## Stats
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jihwankim128&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <table>
   <tr>
     <td width="33%" align="center">
@@ -35,3 +33,4 @@
     <td width="33%" border:"none"> </td>
   </tr>
 </table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihwankim128&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
